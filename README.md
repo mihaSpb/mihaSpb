@@ -24,7 +24,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
     <img src="https://www.charlesproxy.com/assets/images/charles-logo.png" alt="Charles Proxy" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://dbeaver.com/wp-content/uploads/2019/10/dbeaver_logo.svg" alt="DBeaver" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://resources.jetbrains.com/storage/products/youtrack/img/youtrack.svg" alt="YouTrack" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
