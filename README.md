@@ -146,6 +146,8 @@
 
 ### Контактная информация
 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" alt="Telegram" width="40" height="40">](https://t.me/@Mi6Mute)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Email" width="40" height="40">](mailto:mihaspb2007@gmail.com)
 
 
 
