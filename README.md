@@ -154,7 +154,7 @@
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/mihaSpb">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/counter.png">
    </a>
 </div>
 
@@ -162,7 +162,7 @@
 **mihaSpb/mihaSpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
