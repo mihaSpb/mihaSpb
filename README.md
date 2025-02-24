@@ -77,7 +77,7 @@
 -->
 **Сертификат об участии в проекте:**
 <p align="left">
-    <Sertificats/Morozov Mihail Sergeevich sert1.pdf" alt="Сертификат" width="120" height="80"/>
+    <img src="https://github.com/mihaSpb/mihaSpb/blob/assets/Sertificats/Morozov%20Mihail%20Sergeevich%20sert1.jpg" alt="Сертификат" width="120" height="80"/>
 </p>
         
 <!--
