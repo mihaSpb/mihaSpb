@@ -34,6 +34,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </p>
 
+## 
+
+<!--
+### Сертификаты
+-->
+
+## 
+
+### Проекты
+#### 
 
 <!--
 **mihaSpb/mihaSpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
