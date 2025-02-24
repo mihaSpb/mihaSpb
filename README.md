@@ -74,11 +74,13 @@
 - Postman и SOAP UI для тестирования API.
 - JMeter для тестирования производительности.
 
+-->
 **Сертификат об участии в проекте:**
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Сертификат" width="120" height="80"/>
+    <Sertificats/Morozov Mihail Sergeevich sert1.pdf" alt="Сертификат" width="120" height="80"/>
 </p>
-
+        
+<!--
 **Итоги тестирования:**
 
 - Найдено 5 критических багов, связанных с неверным отображением статусов задач.
