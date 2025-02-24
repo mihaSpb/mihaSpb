@@ -20,8 +20,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://curl.se/assets/images/curl-logo.svg" alt="cURL" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
     <img src="https://www.charlesproxy.com/assets/images/charles-logo.png" alt="Charles Proxy" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
