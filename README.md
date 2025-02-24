@@ -19,8 +19,18 @@
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://curl.se/assets/images/curl-logo.svg" alt="cURL" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="Swagger" width="40" height="40"/>
+    <img src="https://www.charlesproxy.com/assets/images/charles-logo.png" alt="Charles Proxy" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://dbeaver.com/wp-content/uploads/2019/10/dbeaver_logo.svg" alt="DBeaver" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com/storage/products/youtrack/img/youtrack.svg" alt="YouTrack" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Chrome_Developer_Tools_logo.svg" alt="Chrome DevTools" width="40" height="40"/>
+    
 </p>
 
 
