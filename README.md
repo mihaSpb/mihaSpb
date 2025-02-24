@@ -142,6 +142,13 @@
 - Закрепил навыки работы с log-файлами и составлении тестовой документации.
 -->
 
+##
+
+### Контактная информация
+
+
+
+
 
 <!--
 **mihaSpb/mihaSpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
