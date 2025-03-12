@@ -82,6 +82,9 @@
 <p align="left">
     <img src="https://github.com/mihaSpb/mihaSpb/blob/assets/Sertificats/Morozov%20Mihail%20Sergeevich%20sert2.jpg" alt="Сертификат" width="120" height="80"/>
 </p>
+<p align="left">
+    <img src="https://github.com/mihaSpb/mihaSpb/blob/assets/Sertificats/Morozov%20Mihail%20Sergeevich%20sert3.jpg" alt="Сертификат" width="120" height="80"/>
+</p>
 
 ### 2. Студия внешней разработки игр AGAVA.
 Работая в студии внешней разработки игр AGAVA, я получил ценный опыт комплексного тестирования веб-приложений, который включает не только выполнение стандартных процедур по чек-листу, но и глубокий анализ пользовательских сценариев с применением метода «серого ящика». Помимо основных обязанностей, мой опыт можно дополнить следующими аспектами, которые подчеркивают мою ценность для потенциального работодателя на позиции QA Engineer:
