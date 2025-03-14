@@ -118,7 +118,7 @@
 
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/telegram.png" alt="Telegram" width="40" height="40">](https://t.me/Mi6Mute)
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/gmail.png" alt="Email" width="40" height="40">](mailto:mihaspb2007@gmail.com)
-[<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/linkedin.png" alt="LinkedIn" width="40" height="40">]()
+[<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/linkedin.png" alt="LinkedIn" width="40" height="40">](www.linkedin.com/in/mikhail-m-35ba43232)
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/min-hh-red.png" alt="HH.ru" width="40" height="40">]()
 
 <!--
