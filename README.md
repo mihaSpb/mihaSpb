@@ -119,7 +119,7 @@
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/telegram.png" alt="Telegram" width="40" height="40">](https://t.me/Mi6Mute)
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/gmail.png" alt="Email" width="40" height="40">](mailto:mihaspb2007@gmail.com)
 [<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/linkedin.png" alt="LinkedIn" width="40" height="40">](https://www.linkedin.com/in/mikhail-m-35ba43232)
-[<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/min-hh-red.png" alt="HH.ru" width="40" height="40">]()
+[<img src="https://github.com/mihaSpb/mihaSpb/blob/assets/icons/min-hh-red.png" alt="HH.ru" width="40" height="40">](https://spb.hh.ru/resume/cf5bb1e1ff0e4b609d0039ed1f6f656f42345a)
 
 <!--
 **mihaSpb/mihaSpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
