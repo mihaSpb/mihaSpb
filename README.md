@@ -115,6 +115,7 @@
 ##
 ### Примеры работ
 [Отчёт о тестировании сайта http://карате74.рф](https://docs.google.com/document/d/1LIl3Wvo4yrb2vM_Xr_ok9ewDZARgrTRfRqREtY-woLU/edit?usp=share_link)
+
 [Отчёт о тестировании сайта https://ekbtennis.ru](https://docs.google.com/document/d/1R644raqPXGR05xdspRLx5L0RGPUtdS2gFDvo_6O0XTk/edit?usp=share_link)
 
 ##
